@@ -1,0 +1,4 @@
+pygame==1.9.4
+numpy==1.15.4
+pykinect==2.1
+keyboard==0.13.2
